@@ -1,0 +1,10 @@
+{
+  "extension": ["js"],
+  "spec": ["test/**/*.test.js"],
+  "recursive": true,
+  "timeout": 5000,
+  "bail": false,
+  "parallel": false,
+  "jobs": 1
+}
+
